@@ -15,7 +15,7 @@ class HeartChatApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(title: const Text('Heart-chat')),
         body: const Center(
-          child: Text('Heart-chat is starting...'),
+          child: Text('Heart-chat'),
         ),
       ),
     );
